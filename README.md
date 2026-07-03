@@ -68,9 +68,8 @@
 
 ## 🌱 Currently Learning
 
-- Advanced SQL
+- Advanced DSA
 - Power BI Dashboards
-- Machine Learning Basics
 - DevOps Fundamentals
 - Generative AI
 
@@ -99,7 +98,7 @@ https://www.linkedin.com/in/varunkumarhv
 https://github.com/varunkumarhv7
 
 📧 Email:
-your-email@example.com
+varunkumarhv1432@gmail.com
 
 ---
 
